@@ -1,0 +1,24 @@
+{
+  "name": "storm-sample-plugin",
+  "version": "0.1.0",
+  "description": "A sample plugin for storm.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caporro/storm-sample-plugin.git"
+  },
+  "keywords": [
+    "storm.dev",
+    "storm",
+    "plugin"
+  ],
+  "author": "Claudio Caporro @caporro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caporro/storm-sample-plugin/issues"
+  },
+  "homepage": "https://github.com/caporro/storm-sample-plugin#readme"
+}
